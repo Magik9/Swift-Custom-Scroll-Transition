@@ -37,7 +37,7 @@ Class TransitionManager is composed by four elements:
   
  To make the transition works you only need to:
  
- -Instanciate a TransitionManager object.
- -Setting transitioningdelegate of presented viewcontroller whit this object.
- -Setting the presentingVc and presentedVc properties of the object.
+ - Instanciate a TransitionManager object.
+ - Setting transitioningdelegate of presented viewcontroller whit this object.
+ - Setting the presentingVc and presentedVc properties of the object.
   
